@@ -1,0 +1,63 @@
+
+.heropage
+{
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 600px;
+}
+.phoenix
+{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.secpage
+{
+    background-color:rgb(94, 72, 17);
+    height: 600px;
+    color: white;
+}
+h2
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;
+    text-align: center;
+}
+.tripage
+{
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 600px;
+}
+.pkimg
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    text-align: center;
+}
+.linkedin
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
